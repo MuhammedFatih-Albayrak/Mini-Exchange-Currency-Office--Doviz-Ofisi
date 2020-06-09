@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\bin\Debug\Foreign Currency Office Application.exe.config
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\bin\Debug\Foreign Currency Office Application.exe
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\bin\Debug\Foreign Currency Office Application.pdb
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Döviz Ofisi Uygulaması.csprojAssemblyReference.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Foreign_Currency_Office_Application.Form1.resources
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Foreign_Currency_Office_Application.Properties.Resources.resources
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Döviz Ofisi Uygulaması.csproj.GenerateResource.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Döviz Ofisi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Foreign Currency Office Application.exe
+C:\Users\MUHAMMED FATİH\Desktop\C#\Foreign Currency Office Application\Foreign Currency Office Application\obj\Debug\Foreign Currency Office Application.pdb
